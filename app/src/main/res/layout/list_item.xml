@@ -12,6 +12,7 @@
     card_view:cardElevation="@dimen/cardview_default_elevation">
 
     <LinearLayout
+        android:background="#e6e6e6"
         android:layout_width="match_parent"
         android:layout_height="?attr/listPreferredItemHeight"
         android:gravity="center_vertical"
